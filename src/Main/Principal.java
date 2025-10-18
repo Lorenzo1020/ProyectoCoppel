@@ -17,9 +17,6 @@ public class Principal {
 		String app;
 		String apm;
 		long numCel;
-		
-		System.out.println("Hola mundo");
-		System.out.println("Probando nuevos cambios");
 
 		Empleados empleado;
 
